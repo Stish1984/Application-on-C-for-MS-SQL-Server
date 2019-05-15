@@ -1,0 +1,137 @@
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales registration.csprojAssemblyReference.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales_registration.Form4.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales_registration.Form3.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales_registration.Form2.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales_registration.Form1.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Properties.Resources.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales registration.csproj.GenerateResource.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CoreCompileInputs.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.exe
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.pdb
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.exe.config
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.exe
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.pdb
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Helpers.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Mvc.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Razor.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Helpers.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Mvc.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Razor.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CopyComplete
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csprojAssemblyReference.cache
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form4.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form3.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form2.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form1.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.GenerateResource.cache
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CoreCompileInputs.cache
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CopyComplete
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe.config
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.pdb
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form5.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Properties.Resources.resources
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.exe
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.pdb
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\stesh\source\repos\Sales registration\Регистрация отгрузки\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe.config
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.pdb
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csprojAssemblyReference.cache
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form5.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form4.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form3.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form2.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form1.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Properties.Resources.resources
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.GenerateResource.cache
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CoreCompileInputs.cache
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CopyComplete
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.exe
+C:\Users\stesh\OneDrive\Документы\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.pdb
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe.config
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.exe
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Sales_registration.pdb
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Linq.Dynamic.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Helpers.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Mvc.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.Razor.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.resources.dll
+D:\Testing\Sales registration\Регистрация отгрузки\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csprojAssemblyReference.cache
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form5.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form4.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form3.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form2.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Form1.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.Properties.Resources.resources
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.GenerateResource.cache
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CoreCompileInputs.cache
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales registration.csproj.CopyComplete
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.exe
+D:\Testing\Sales registration\Регистрация отгрузки\obj\Debug\Sales_registration.pdb

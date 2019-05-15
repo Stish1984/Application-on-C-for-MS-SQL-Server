@@ -1,0 +1,33 @@
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.exe.config
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.exe
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Регистрация отгрузки.pdb
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.csprojAssemblyReference.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Properties.Resources.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.csproj.GenerateResource.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.csproj.CoreCompileInputs.cache
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.exe
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.pdb
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Form1.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация отгрузки.csproj.CopyComplete
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Form2.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Helpers.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Mvc.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Razor.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Helpers.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Mvc.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.Razor.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Form3.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Form4.resources
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\stesh\source\repos\Регистрация отгрузки\Регистрация отгрузки\obj\Debug\Регистрация_отгрузки.Migrations.MigrateDB.resources
